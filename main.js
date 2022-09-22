@@ -1,7 +1,7 @@
 module.exports = {
 
     helloWorld: function(){
-        return 'hello world today';
+        return 'hello world';
     }
 
 };
