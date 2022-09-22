@@ -1,0 +1,18 @@
+{
+  "name": "testmochachai",
+  "version": "1.0.0",
+  "description": "Este proyecto es un simple ejemplo de como usar mochajs y chaijs",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/_mocha || exit 0"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "carlos",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
