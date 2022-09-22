@@ -11,4 +11,4 @@ describe('Main Suite', function(){
         assert.equal(helloWorldText, 'hello world')
 
     });
-})
+});
